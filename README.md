@@ -45,8 +45,8 @@ Replace `<interface>` with the name of the network interface you want to modify 
 
 Additional options:
 
-- `-i` or `--interface'
-- `-m` or `--new_mac'
+- `-i` or `--interface`
+- `-m` or `--new_mac`
 - `-h` or `--help`
 
 **Note:** Changing the MAC address of a network interface may temporarily disrupt your network connection. Exercise caution when using this tool.
